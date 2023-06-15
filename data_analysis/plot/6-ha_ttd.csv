@@ -1,0 +1,153 @@
+lotus_id,pid,affinity,smiles,inchikey,pathway,superclass,class,connection_status_npclass,connection_status_pubchem,pid2,TARGETID,name
+LTS0109746,23172,10.33469,CC#CC#CC#CC=CCCC(=O)CC,FPCUXOLBEQHUKP-UHFFFAOYSA-N,Fatty acids,Fatty acyls,Fatty alcohols,-1,-1,T23172,T23172,Janus kinase 3
+LTS0105247,8391,10.92918,O=P(O)(O)OCC(O)CO,AWUCVROLDVIAJX-UHFFFAOYSA-N,Carbohydrates,Saccharides,Monosaccharides,-1,-1,T08391,T08391,Janus kinase 2
+LTS0030456,8391,10.01031,O=P(O)(O)O[C@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O,HXXFSFRBOHSIMQ-VFUOTHLCSA-N,Carbohydrates,Saccharides,Monosaccharides,-1,-1,T08391,T08391,Janus kinase 2
+LTS0235585,53524,10.05947,C[C@@H](CC(O)=NC(=O)c1c[nH]c(/C=C/CCCCCCCCC(=O)O)cc1=O)C(=O)O,NJUIBIWJAXMJKR-HQPKTYMTSA-N,Alkaloids,Other,Other,-1,-1,T53524,T53524,Platelet-derived growth factor receptor alpha
+LTS0235585,57700,10.13047,C[C@@H](CC(O)=NC(=O)c1c[nH]c(/C=C/CCCCCCCCC(=O)O)cc1=O)C(=O)O,NJUIBIWJAXMJKR-HQPKTYMTSA-N,Alkaloids,Other,Other,-1,-1,T57700,T57700,Tyrosine-protein kinase Kit
+LTS0235585,74312,10.18501,C[C@@H](CC(O)=NC(=O)c1c[nH]c(/C=C/CCCCCCCCC(=O)O)cc1=O)C(=O)O,NJUIBIWJAXMJKR-HQPKTYMTSA-N,Alkaloids,Other,Other,-1,-1,T74312,T74312,Fms-like tyrosine kinase 3
+LTS0032645,12499,10.14828,Oc1c(O)c(Cl)c(Cl)c(Cl)c1Cl,RRBMVWQICIXSEO-UHFFFAOYSA-N,Polyketides,Other,Other,-1,-1,T12499,T12499,LCK tyrosine protein kinase
+LTS0230843,20333,10.06025,COc1c(C)[nH]c(CCCCCCCCCCC(C)=O)cc1=O,MBHUVYWCZVGFQU-UHFFFAOYSA-N,Alkaloids,Tryptophan alkaloids,Other,-1,-1,T20333,T20333,Macrophage colony-stimulating factor 1 receptor
+LTS0230843,53524,10.33003,COc1c(C)[nH]c(CCCCCCCCCCC(C)=O)cc1=O,MBHUVYWCZVGFQU-UHFFFAOYSA-N,Alkaloids,Tryptophan alkaloids,Other,-1,-1,T53524,T53524,Platelet-derived growth factor receptor alpha
+LTS0230843,57700,10.606,COc1c(C)[nH]c(CCCCCCCCCCC(C)=O)cc1=O,MBHUVYWCZVGFQU-UHFFFAOYSA-N,Alkaloids,Tryptophan alkaloids,Other,-1,-1,T57700,T57700,Tyrosine-protein kinase Kit
+LTS0230843,59102,10.30051,COc1c(C)[nH]c(CCCCCCCCCCC(C)=O)cc1=O,MBHUVYWCZVGFQU-UHFFFAOYSA-N,Alkaloids,Tryptophan alkaloids,Other,-1,-1,T59102,T59102,Platelet-derived growth factor receptor beta
+LTS0230843,63966,10.45096,COc1c(C)[nH]c(CCCCCCCCCCC(C)=O)cc1=O,MBHUVYWCZVGFQU-UHFFFAOYSA-N,Alkaloids,Tryptophan alkaloids,Other,-1,-1,T63966,T63966,Vascular endothelial growth factor receptor 1
+LTS0230843,74312,10.46444,COc1c(C)[nH]c(CCCCCCCCCCC(C)=O)cc1=O,MBHUVYWCZVGFQU-UHFFFAOYSA-N,Alkaloids,Tryptophan alkaloids,Other,-1,-1,T74312,T74312,Fms-like tyrosine kinase 3
+LTS0230843,80782,10.45096,COc1c(C)[nH]c(CCCCCCCCCCC(C)=O)cc1=O,MBHUVYWCZVGFQU-UHFFFAOYSA-N,Alkaloids,Tryptophan alkaloids,Other,-1,-1,T80782,T80782,VEGFR1 messenger RNA
+LTS0230843,80975,10.70463,COc1c(C)[nH]c(CCCCCCCCCCC(C)=O)cc1=O,MBHUVYWCZVGFQU-UHFFFAOYSA-N,Alkaloids,Tryptophan alkaloids,Other,-1,-1,T80975,T80975,Vascular endothelial growth factor receptor 2
+LTS0091662,12499,10.00233,COc1c(Cl)cc(Cl)cc1Cl,WCVOGSZTONGSQY-UHFFFAOYSA-N,Shikimates and Phenylpropanoids,Other,Other,-1,-1,T12499,T12499,LCK tyrosine protein kinase
+LTS0010034,8391,10.20494,O=S(=O)(O)c1cc(O)c(O)c(S(=O)(=O)O)c1,XXAXVMUWHZHZMJ-UHFFFAOYSA-N,Shikimates and Phenylpropanoids,Other,Other,-1,-1,T08391,T08391,Janus kinase 2
+LTS0014896,8391,11.71713,O=S(=O)(F)Cc1ccccc1,YBYRMVIVWMBXKQ-UHFFFAOYSA-N,Other,Other,Other,200,-1,T08391,T08391,Janus kinase 2
+LTS0014896,12499,10.71349,O=S(=O)(F)Cc1ccccc1,YBYRMVIVWMBXKQ-UHFFFAOYSA-N,Other,Other,Other,200,-1,T12499,T12499,LCK tyrosine protein kinase
+LTS0014896,17980,10.4391,O=S(=O)(F)Cc1ccccc1,YBYRMVIVWMBXKQ-UHFFFAOYSA-N,Other,Other,Other,200,-1,T17980,T17980,Fyn tyrosine protein kinase
+LTS0014896,20333,10.34298,O=S(=O)(F)Cc1ccccc1,YBYRMVIVWMBXKQ-UHFFFAOYSA-N,Other,Other,Other,200,-1,T20333,T20333,Macrophage colony-stimulating factor 1 receptor
+LTS0014896,35842,10.10536,O=S(=O)(F)Cc1ccccc1,YBYRMVIVWMBXKQ-UHFFFAOYSA-N,Other,Other,Other,200,-1,T35842,T35842,Melanocortin receptor 1
+LTS0014896,56518,11.37849,O=S(=O)(F)Cc1ccccc1,YBYRMVIVWMBXKQ-UHFFFAOYSA-N,Other,Other,Other,200,-1,T56518,T56518,Hepatitis B virus Reverse transcriptase
+LTS0014896,57700,10.58997,O=S(=O)(F)Cc1ccccc1,YBYRMVIVWMBXKQ-UHFFFAOYSA-N,Other,Other,Other,200,-1,T57700,T57700,Tyrosine-protein kinase Kit
+LTS0014896,59102,10.67959,O=S(=O)(F)Cc1ccccc1,YBYRMVIVWMBXKQ-UHFFFAOYSA-N,Other,Other,Other,200,-1,T59102,T59102,Platelet-derived growth factor receptor beta
+LTS0014896,62431,10.49545,O=S(=O)(F)Cc1ccccc1,YBYRMVIVWMBXKQ-UHFFFAOYSA-N,Other,Other,Other,200,-1,T62431,T62431,Tyrosine-protein kinase SYK
+LTS0014896,63934,10.06463,O=S(=O)(F)Cc1ccccc1,YBYRMVIVWMBXKQ-UHFFFAOYSA-N,Other,Other,Other,200,-1,T63934,T63934,Interferon-alpha 2
+LTS0014896,63966,10.46829,O=S(=O)(F)Cc1ccccc1,YBYRMVIVWMBXKQ-UHFFFAOYSA-N,Other,Other,Other,200,-1,T63966,T63966,Vascular endothelial growth factor receptor 1
+LTS0014896,69128,10.41077,O=S(=O)(F)Cc1ccccc1,YBYRMVIVWMBXKQ-UHFFFAOYSA-N,Other,Other,Other,200,-1,T69128,T69128,Proto-oncogene c-Ros
+LTS0014896,72458,10.53365,O=S(=O)(F)Cc1ccccc1,YBYRMVIVWMBXKQ-UHFFFAOYSA-N,Other,Other,Other,200,-1,T72458,T72458,Melanocortin receptor 4
+LTS0014896,74312,11.96094,O=S(=O)(F)Cc1ccccc1,YBYRMVIVWMBXKQ-UHFFFAOYSA-N,Other,Other,Other,200,-1,T74312,T74312,Fms-like tyrosine kinase 3
+LTS0014896,80782,10.46829,O=S(=O)(F)Cc1ccccc1,YBYRMVIVWMBXKQ-UHFFFAOYSA-N,Other,Other,Other,200,-1,T80782,T80782,VEGFR1 messenger RNA
+LTS0014896,85943,11.4789,O=S(=O)(F)Cc1ccccc1,YBYRMVIVWMBXKQ-UHFFFAOYSA-N,Other,Other,Other,200,-1,T85943,T85943,Proto-oncogene c-Src
+LTS0031172,8391,10.7945,O=S(=O)(O)CCNC[C@H](O)CO,JMCQSLSABBLTGP-YFKPBYRVSA-N,Other,Other,Other,200,-1,T08391,T08391,Janus kinase 2
+LTS0031172,74312,10.06855,O=S(=O)(O)CCNC[C@H](O)CO,JMCQSLSABBLTGP-YFKPBYRVSA-N,Other,Other,Other,200,-1,T74312,T74312,Fms-like tyrosine kinase 3
+LTS0003037,20333,10.02461,COc1c(C)[nH]c(CCCCCCCCCC[C@@H](C)O)cc1=O,JRVFYHGCYUUHNE-OAHLLOKOSA-N,Alkaloids,Tryptophan alkaloids,Other,-1,-1,T20333,T20333,Macrophage colony-stimulating factor 1 receptor
+LTS0003037,53524,10.30215,COc1c(C)[nH]c(CCCCCCCCCC[C@@H](C)O)cc1=O,JRVFYHGCYUUHNE-OAHLLOKOSA-N,Alkaloids,Tryptophan alkaloids,Other,-1,-1,T53524,T53524,Platelet-derived growth factor receptor alpha
+LTS0003037,57700,10.56612,COc1c(C)[nH]c(CCCCCCCCCC[C@@H](C)O)cc1=O,JRVFYHGCYUUHNE-OAHLLOKOSA-N,Alkaloids,Tryptophan alkaloids,Other,-1,-1,T57700,T57700,Tyrosine-protein kinase Kit
+LTS0003037,59102,10.25036,COc1c(C)[nH]c(CCCCCCCCCC[C@@H](C)O)cc1=O,JRVFYHGCYUUHNE-OAHLLOKOSA-N,Alkaloids,Tryptophan alkaloids,Other,-1,-1,T59102,T59102,Platelet-derived growth factor receptor beta
+LTS0003037,63966,10.49176,COc1c(C)[nH]c(CCCCCCCCCC[C@@H](C)O)cc1=O,JRVFYHGCYUUHNE-OAHLLOKOSA-N,Alkaloids,Tryptophan alkaloids,Other,-1,-1,T63966,T63966,Vascular endothelial growth factor receptor 1
+LTS0003037,74312,10.01469,COc1c(C)[nH]c(CCCCCCCCCC[C@@H](C)O)cc1=O,JRVFYHGCYUUHNE-OAHLLOKOSA-N,Alkaloids,Tryptophan alkaloids,Other,-1,-1,T74312,T74312,Fms-like tyrosine kinase 3
+LTS0003037,80782,10.49176,COc1c(C)[nH]c(CCCCCCCCCC[C@@H](C)O)cc1=O,JRVFYHGCYUUHNE-OAHLLOKOSA-N,Alkaloids,Tryptophan alkaloids,Other,-1,-1,T80782,T80782,VEGFR1 messenger RNA
+LTS0003037,80975,10.63809,COc1c(C)[nH]c(CCCCCCCCCC[C@@H](C)O)cc1=O,JRVFYHGCYUUHNE-OAHLLOKOSA-N,Alkaloids,Tryptophan alkaloids,Other,-1,-1,T80975,T80975,Vascular endothelial growth factor receptor 2
+LTS0006225,8391,11.08236,O=P(O)(O)OC(CO)CO,DHCLVCXQIBBOPH-UHFFFAOYSA-N,Carbohydrates,Saccharides,Monosaccharides,-1,-1,T08391,T08391,Janus kinase 2
+LTS0066711,895,10.07565,CN[C@H]1C[C@@H]2O[C@](C)([C@H]1O)n1c3ccccc3c3c4c(c5c6ccccc6n2c5c31)C(O)=NC4,YFYYWLWHOINTHH-ZHRWAWIBSA-N,Alkaloids,Tryptophan alkaloids,Carbazole alkaloids,-1,-1,T00895,T00895,Protein kinase C epsilon
+LTS0066711,49493,10.09616,CN[C@H]1C[C@@H]2O[C@](C)([C@H]1O)n1c3ccccc3c3c4c(c5c6ccccc6n2c5c31)C(O)=NC4,YFYYWLWHOINTHH-ZHRWAWIBSA-N,Alkaloids,Tryptophan alkaloids,Carbazole alkaloids,-1,-1,T49493,T49493,Hemoglobin
+LTS0066711,51282,10.23906,CN[C@H]1C[C@@H]2O[C@](C)([C@H]1O)n1c3ccccc3c3c4c(c5c6ccccc6n2c5c31)C(O)=NC4,YFYYWLWHOINTHH-ZHRWAWIBSA-N,Alkaloids,Tryptophan alkaloids,Carbazole alkaloids,-1,-1,T51282,T51282,Rho-associated protein kinase 1
+LTS0066711,76630,10.44893,CN[C@H]1C[C@@H]2O[C@](C)([C@H]1O)n1c3ccccc3c3c4c(c5c6ccccc6n2c5c31)C(O)=NC4,YFYYWLWHOINTHH-ZHRWAWIBSA-N,Alkaloids,Tryptophan alkaloids,Carbazole alkaloids,-1,-1,T76630,T76630,Cambridge pathology 1 antigen
+LTS0052543,8391,11.01882,N=c1nc(O)c2ncn([C@@H]3O[C@H](CO)[C@@H](O)[C@H]3O)c2[nH]1.O=P(O)(O)OP(=O)(O)OP(=O)(O)OP(=O)(O)OP(=O)(O)O,DBEXSRNSAQCIFR-GWTDSMLYSA-N,Carbohydrates,Nucleosides,Purine nucleotides,-1,-1,T08391,T08391,Janus kinase 2
+LTS0051960,8391,10.1545,O=P(O)(O)OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,GACTWZZMVMUKNG-KVTDHHQDSA-N,Carbohydrates,Saccharides,Monosaccharides,-1,-1,T08391,T08391,Janus kinase 2
+LTS0044372,8391,11.17954,Nc1ncnc2c1ncn2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O.O=P(O)(O)OP(=O)(O)OP(=O)(O)OP(=O)(O)O,JMHVAJOYIHEZCO-MCDZGGTQSA-N,Carbohydrates,Nucleosides,Purine nucleotides,-1,-1,T08391,T08391,Janus kinase 2
+LTS0186566,8391,11.25497,Nc1ncnc2c1ncn2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O.O=P(O)(O)OP(=O)(O)OP(=O)(O)OP(=O)(O)OP(=O)(O)O,YWRCSNLHZPAACL-MCDZGGTQSA-N,Carbohydrates,Nucleosides,Purine nucleotides,-1,-1,T08391,T08391,Janus kinase 2
+LTS0049517,20333,10.11518,N=C(O)c1c[nH]c(/C=C\CCCCCCCCC(=O)O)cc1=O,FQHXRDDMWDQLPV-CLFYSBASSA-N,Alkaloids,Nicotinic acid alkaloids,Pyridine alkaloids,-1,-1,T20333,T20333,Macrophage colony-stimulating factor 1 receptor
+LTS0049517,53524,10.21509,N=C(O)c1c[nH]c(/C=C\CCCCCCCCC(=O)O)cc1=O,FQHXRDDMWDQLPV-CLFYSBASSA-N,Alkaloids,Nicotinic acid alkaloids,Pyridine alkaloids,-1,-1,T53524,T53524,Platelet-derived growth factor receptor alpha
+LTS0049517,57700,10.5409,N=C(O)c1c[nH]c(/C=C\CCCCCCCCC(=O)O)cc1=O,FQHXRDDMWDQLPV-CLFYSBASSA-N,Alkaloids,Nicotinic acid alkaloids,Pyridine alkaloids,-1,-1,T57700,T57700,Tyrosine-protein kinase Kit
+LTS0049517,59102,10.03394,N=C(O)c1c[nH]c(/C=C\CCCCCCCCC(=O)O)cc1=O,FQHXRDDMWDQLPV-CLFYSBASSA-N,Alkaloids,Nicotinic acid alkaloids,Pyridine alkaloids,-1,-1,T59102,T59102,Platelet-derived growth factor receptor beta
+LTS0049517,63966,10.21668,N=C(O)c1c[nH]c(/C=C\CCCCCCCCC(=O)O)cc1=O,FQHXRDDMWDQLPV-CLFYSBASSA-N,Alkaloids,Nicotinic acid alkaloids,Pyridine alkaloids,-1,-1,T63966,T63966,Vascular endothelial growth factor receptor 1
+LTS0049517,74312,10.69067,N=C(O)c1c[nH]c(/C=C\CCCCCCCCC(=O)O)cc1=O,FQHXRDDMWDQLPV-CLFYSBASSA-N,Alkaloids,Nicotinic acid alkaloids,Pyridine alkaloids,-1,-1,T74312,T74312,Fms-like tyrosine kinase 3
+LTS0049517,80782,10.21668,N=C(O)c1c[nH]c(/C=C\CCCCCCCCC(=O)O)cc1=O,FQHXRDDMWDQLPV-CLFYSBASSA-N,Alkaloids,Nicotinic acid alkaloids,Pyridine alkaloids,-1,-1,T80782,T80782,VEGFR1 messenger RNA
+LTS0049517,80975,10.40652,N=C(O)c1c[nH]c(/C=C\CCCCCCCCC(=O)O)cc1=O,FQHXRDDMWDQLPV-CLFYSBASSA-N,Alkaloids,Nicotinic acid alkaloids,Pyridine alkaloids,-1,-1,T80975,T80975,Vascular endothelial growth factor receptor 2
+LTS0250556,8391,10.3918,Nc1ncnc2c1ncn2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O.Nc1ncnc2c1ncn2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O.O=P(O)(O)OP(=O)(O)OP(=O)(O)OP(=O)(O)O,SAWHPTWGLLAOIT-JZBGLOBFSA-N,Carbohydrates,Nucleosides,Purine nucleotides,-1,-1,T08391,T08391,Janus kinase 2
+LTS0209964,57700,10.13875,CNC(Cc1c[nH]c2cccc(CC=C(C)C)c12)C(=O)O,QQMWUGXCTSAHLX-UHFFFAOYSA-N,Alkaloids,Tryptophan alkaloids,Other,-1,-1,T57700,T57700,Tyrosine-protein kinase Kit
+LTS0171945,895,10.01914,CN[C@@H]1C[C@H]2O[C@@](C)([C@@H]1OC)n1c3ccccc3c3c4c(c5c6ccccc6n2c5c31)C(O)=NC4,HKSZLNNOFSGOKW-FYTWVXJKSA-N,Alkaloids,Tryptophan alkaloids,Carbazole alkaloids,-1,-1,T00895,T00895,Protein kinase C epsilon
+LTS0171945,49493,10.02169,CN[C@@H]1C[C@H]2O[C@@](C)([C@@H]1OC)n1c3ccccc3c3c4c(c5c6ccccc6n2c5c31)C(O)=NC4,HKSZLNNOFSGOKW-FYTWVXJKSA-N,Alkaloids,Tryptophan alkaloids,Carbazole alkaloids,-1,-1,T49493,T49493,Hemoglobin
+LTS0171945,51282,10.18011,CN[C@@H]1C[C@H]2O[C@@](C)([C@@H]1OC)n1c3ccccc3c3c4c(c5c6ccccc6n2c5c31)C(O)=NC4,HKSZLNNOFSGOKW-FYTWVXJKSA-N,Alkaloids,Tryptophan alkaloids,Carbazole alkaloids,-1,-1,T51282,T51282,Rho-associated protein kinase 1
+LTS0171945,76630,10.36687,CN[C@@H]1C[C@H]2O[C@@](C)([C@@H]1OC)n1c3ccccc3c3c4c(c5c6ccccc6n2c5c31)C(O)=NC4,HKSZLNNOFSGOKW-FYTWVXJKSA-N,Alkaloids,Tryptophan alkaloids,Carbazole alkaloids,-1,-1,T76630,T76630,Cambridge pathology 1 antigen
+LTS0033004,12499,10.68352,Oc1ccc(C(c2ccc(O)cc2)(C(F)(F)F)C(F)(F)F)cc1,ZFVMWEVVKGLCIJ-UHFFFAOYSA-N,Shikimates and Phenylpropanoids,Other,Other,-1,-1,T12499,T12499,LCK tyrosine protein kinase
+LTS0033004,20333,11.57602,Oc1ccc(C(c2ccc(O)cc2)(C(F)(F)F)C(F)(F)F)cc1,ZFVMWEVVKGLCIJ-UHFFFAOYSA-N,Shikimates and Phenylpropanoids,Other,Other,-1,-1,T20333,T20333,Macrophage colony-stimulating factor 1 receptor
+LTS0033004,39087,10.14222,Oc1ccc(C(c2ccc(O)cc2)(C(F)(F)F)C(F)(F)F)cc1,ZFVMWEVVKGLCIJ-UHFFFAOYSA-N,Shikimates and Phenylpropanoids,Other,Other,-1,-1,T39087,T39087,Human immunodeficiency virus Integrase
+LTS0033004,51076,10.65868,Oc1ccc(C(c2ccc(O)cc2)(C(F)(F)F)C(F)(F)F)cc1,ZFVMWEVVKGLCIJ-UHFFFAOYSA-N,Shikimates and Phenylpropanoids,Other,Other,-1,-1,T51076,T51076,NT-3 growth factor receptor
+LTS0033004,53524,10.40155,Oc1ccc(C(c2ccc(O)cc2)(C(F)(F)F)C(F)(F)F)cc1,ZFVMWEVVKGLCIJ-UHFFFAOYSA-N,Shikimates and Phenylpropanoids,Other,Other,-1,-1,T53524,T53524,Platelet-derived growth factor receptor alpha
+LTS0033004,54055,10.07021,Oc1ccc(C(c2ccc(O)cc2)(C(F)(F)F)C(F)(F)F)cc1,ZFVMWEVVKGLCIJ-UHFFFAOYSA-N,Shikimates and Phenylpropanoids,Other,Other,-1,-1,T54055,T54055,Hyaluronic acid receptor
+LTS0033004,56365,10.08931,Oc1ccc(C(c2ccc(O)cc2)(C(F)(F)F)C(F)(F)F)cc1,ZFVMWEVVKGLCIJ-UHFFFAOYSA-N,Shikimates and Phenylpropanoids,Other,Other,-1,-1,T56365,T56365,B-lymphocyte surface antigen B4
+LTS0033004,57700,10.81249,Oc1ccc(C(c2ccc(O)cc2)(C(F)(F)F)C(F)(F)F)cc1,ZFVMWEVVKGLCIJ-UHFFFAOYSA-N,Shikimates and Phenylpropanoids,Other,Other,-1,-1,T57700,T57700,Tyrosine-protein kinase Kit
+LTS0033004,59102,10.35899,Oc1ccc(C(c2ccc(O)cc2)(C(F)(F)F)C(F)(F)F)cc1,ZFVMWEVVKGLCIJ-UHFFFAOYSA-N,Shikimates and Phenylpropanoids,Other,Other,-1,-1,T59102,T59102,Platelet-derived growth factor receptor beta
+LTS0033004,60631,10.38876,Oc1ccc(C(c2ccc(O)cc2)(C(F)(F)F)C(F)(F)F)cc1,ZFVMWEVVKGLCIJ-UHFFFAOYSA-N,Shikimates and Phenylpropanoids,Other,Other,-1,-1,T60631,T60631,Proto-oncogene c-Ret
+LTS0033004,63505,10.56209,Oc1ccc(C(c2ccc(O)cc2)(C(F)(F)F)C(F)(F)F)cc1,ZFVMWEVVKGLCIJ-UHFFFAOYSA-N,Shikimates and Phenylpropanoids,Other,Other,-1,-1,T63505,T63505,Tyrosine-protein kinase ABL1
+LTS0033004,63934,10.8673,Oc1ccc(C(c2ccc(O)cc2)(C(F)(F)F)C(F)(F)F)cc1,ZFVMWEVVKGLCIJ-UHFFFAOYSA-N,Shikimates and Phenylpropanoids,Other,Other,-1,-1,T63934,T63934,Interferon-alpha 2
+LTS0033004,74312,11.01567,Oc1ccc(C(c2ccc(O)cc2)(C(F)(F)F)C(F)(F)F)cc1,ZFVMWEVVKGLCIJ-UHFFFAOYSA-N,Shikimates and Phenylpropanoids,Other,Other,-1,-1,T74312,T74312,Fms-like tyrosine kinase 3
+LTS0033004,97035,10.98963,Oc1ccc(C(c2ccc(O)cc2)(C(F)(F)F)C(F)(F)F)cc1,ZFVMWEVVKGLCIJ-UHFFFAOYSA-N,Shikimates and Phenylpropanoids,Other,Other,-1,-1,T97035,T97035,Tyrosinase
+LTS0013225,8391,11.92459,O=S(=O)(O)CCO,SUMDYPCJJOFFON-UHFFFAOYSA-N,Fatty acids,Fatty acyls,Fatty alcohols,-1,-1,T08391,T08391,Janus kinase 2
+LTS0013225,23172,10.09447,O=S(=O)(O)CCO,SUMDYPCJJOFFON-UHFFFAOYSA-N,Fatty acids,Fatty acyls,Fatty alcohols,-1,-1,T23172,T23172,Janus kinase 3
+LTS0013225,56518,11.08168,O=S(=O)(O)CCO,SUMDYPCJJOFFON-UHFFFAOYSA-N,Fatty acids,Fatty acyls,Fatty alcohols,-1,-1,T56518,T56518,Hepatitis B virus Reverse transcriptase
+LTS0013225,62431,10.34264,O=S(=O)(O)CCO,SUMDYPCJJOFFON-UHFFFAOYSA-N,Fatty acids,Fatty acyls,Fatty alcohols,-1,-1,T62431,T62431,Tyrosine-protein kinase SYK
+LTS0013225,69128,10.05711,O=S(=O)(O)CCO,SUMDYPCJJOFFON-UHFFFAOYSA-N,Fatty acids,Fatty acyls,Fatty alcohols,-1,-1,T69128,T69128,Proto-oncogene c-Ros
+LTS0013225,72458,10.157,O=S(=O)(O)CCO,SUMDYPCJJOFFON-UHFFFAOYSA-N,Fatty acids,Fatty acyls,Fatty alcohols,-1,-1,T72458,T72458,Melanocortin receptor 4
+LTS0013225,74312,11.17733,O=S(=O)(O)CCO,SUMDYPCJJOFFON-UHFFFAOYSA-N,Fatty acids,Fatty acyls,Fatty alcohols,-1,-1,T74312,T74312,Fms-like tyrosine kinase 3
+LTS0013225,85943,10.75704,O=S(=O)(O)CCO,SUMDYPCJJOFFON-UHFFFAOYSA-N,Fatty acids,Fatty acyls,Fatty alcohols,-1,-1,T85943,T85943,Proto-oncogene c-Src
+LTS0194788,8391,10.03818,O=S(=O)(O)[C@@H]1N[C@H](CO)[C@H](O)[C@H](O)[C@H]1O,PLICPKOWHZITQE-PHYPRBDBSA-N,Carbohydrates,Aminosugars and aminoglycosides,Aminosugars,-1,-1,T08391,T08391,Janus kinase 2
+LTS0214689,8391,10.24464,CC1OC1P(=O)(O)OP(=O)(O)O,WODGUJUDEVOKET-UHFFFAOYSA-N,Carbohydrates,Other,Other,-1,-1,T08391,T08391,Janus kinase 2
+LTS0099250,57700,10.08581,CC(C)CC(O)=NC(=O)c1c[nH]c(C=CCCC=CC=CC(=O)O)cc1=O,IBYSWVIXXYFGCG-UHFFFAOYSA-N,Alkaloids,Nicotinic acid alkaloids,Pyridine alkaloids,-1,-1,T57700,T57700,Tyrosine-protein kinase Kit
+LTS0099250,74312,10.14369,CC(C)CC(O)=NC(=O)c1c[nH]c(C=CCCC=CC=CC(=O)O)cc1=O,IBYSWVIXXYFGCG-UHFFFAOYSA-N,Alkaloids,Nicotinic acid alkaloids,Pyridine alkaloids,-1,-1,T74312,T74312,Fms-like tyrosine kinase 3
+LTS0211421,8391,11.01691,O=S(=O)(O)c1ccc(O)cc1,FEPBITJSIHRMRT-UHFFFAOYSA-N,Shikimates and Phenylpropanoids,Other,Other,-1,-1,T08391,T08391,Janus kinase 2
+LTS0211421,74312,10.17284,O=S(=O)(O)c1ccc(O)cc1,FEPBITJSIHRMRT-UHFFFAOYSA-N,Shikimates and Phenylpropanoids,Other,Other,-1,-1,T74312,T74312,Fms-like tyrosine kinase 3
+LTS0196151,8391,10.17418,O=S(=O)(O)Oc1cc(O)c(OS(=O)(=O)O)c(O)c1,AVVGQUCGWQSMAQ-UHFFFAOYSA-N,Shikimates and Phenylpropanoids,Other,Other,-1,-1,T08391,T08391,Janus kinase 2
+LTS0264395,74312,10.01541,O=C(C=CC(O)Cc1ccccc1)CCc1ccccc1,TYZZLIGGENRWEF-UHFFFAOYSA-N,Shikimates and Phenylpropanoids,Diarylheptanoids,Linear diarylheptanoids,-1,-1,T74312,T74312,Fms-like tyrosine kinase 3
+LTS0246820,8391,11.14935,O=P(O)(O)Oc1ccccc1,CMPQUABWPXYYSH-UHFFFAOYSA-N,Shikimates and Phenylpropanoids,Other,Other,200,-1,T08391,T08391,Janus kinase 2
+LTS0208747,8391,10.75125,CC1OC1P(=O)(O)OP(=O)(O)OP(=O)(O)O,PBGUGYVOUXZBQY-UHFFFAOYSA-N,Carbohydrates,Other,Other,-1,-1,T08391,T08391,Janus kinase 2
+LTS0155002,69128,10.01312,Sc1nc2ccccc2s1,YXIWHUQXZSMYRE-UHFFFAOYSA-N,Shikimates and Phenylpropanoids,Other,Other,-1,-1,T69128,T69128,Proto-oncogene c-Ros
+LTS0150954,23172,10.18067,CC#CC#CC#CC(=O)OC,CDCWFGFMJOMQLJ-UHFFFAOYSA-N,Fatty acids,Fatty acyls,Fatty alcohols,-1,-1,T23172,T23172,Janus kinase 3
+LTS0200870,8391,10.77487,O=S(=O)(O)c1cccc(S(=O)(=O)O)c1,WRUAHXANJKHFIL-UHFFFAOYSA-N,Shikimates and Phenylpropanoids,Other,Other,-1,-1,T08391,T08391,Janus kinase 2
+LTS0125402,20333,10.08166,Cc1[nH]c2ccccc2c(=O)c1C,ZCHAUSWCWZYCNG-UHFFFAOYSA-N,Alkaloids,Tryptophan alkaloids,Acridone alkaloids,-1,-1,T20333,T20333,Macrophage colony-stimulating factor 1 receptor
+LTS0125402,53524,10.34416,Cc1[nH]c2ccccc2c(=O)c1C,ZCHAUSWCWZYCNG-UHFFFAOYSA-N,Alkaloids,Tryptophan alkaloids,Acridone alkaloids,-1,-1,T53524,T53524,Platelet-derived growth factor receptor alpha
+LTS0125402,57700,10.57728,Cc1[nH]c2ccccc2c(=O)c1C,ZCHAUSWCWZYCNG-UHFFFAOYSA-N,Alkaloids,Tryptophan alkaloids,Acridone alkaloids,-1,-1,T57700,T57700,Tyrosine-protein kinase Kit
+LTS0125402,59102,10.10465,Cc1[nH]c2ccccc2c(=O)c1C,ZCHAUSWCWZYCNG-UHFFFAOYSA-N,Alkaloids,Tryptophan alkaloids,Acridone alkaloids,-1,-1,T59102,T59102,Platelet-derived growth factor receptor beta
+LTS0125402,74312,10.73258,Cc1[nH]c2ccccc2c(=O)c1C,ZCHAUSWCWZYCNG-UHFFFAOYSA-N,Alkaloids,Tryptophan alkaloids,Acridone alkaloids,-1,-1,T74312,T74312,Fms-like tyrosine kinase 3
+LTS0125402,80975,10.0659,Cc1[nH]c2ccccc2c(=O)c1C,ZCHAUSWCWZYCNG-UHFFFAOYSA-N,Alkaloids,Tryptophan alkaloids,Acridone alkaloids,-1,-1,T80975,T80975,Vascular endothelial growth factor receptor 2
+LTS0253038,8898,10.20033,Cc1nc2ccccc2s1,DXYYSGDWQCSKKO-UHFFFAOYSA-N,Alkaloids,Other,Other,-1,-1,T08898,T08898,Melanocortin receptor 2
+LTS0253038,48069,10.19337,Cc1nc2ccccc2s1,DXYYSGDWQCSKKO-UHFFFAOYSA-N,Alkaloids,Other,Other,-1,-1,T48069,T48069,Insulin-like growth factor I receptor
+LTS0253038,56418,10.50945,Cc1nc2ccccc2s1,DXYYSGDWQCSKKO-UHFFFAOYSA-N,Alkaloids,Other,Other,-1,-1,T56418,T56418,ALK tyrosine kinase receptor
+LTS0253038,69128,11.24253,Cc1nc2ccccc2s1,DXYYSGDWQCSKKO-UHFFFAOYSA-N,Alkaloids,Other,Other,-1,-1,T69128,T69128,Proto-oncogene c-Ros
+LTS0253038,84316,10.35034,Cc1nc2ccccc2s1,DXYYSGDWQCSKKO-UHFFFAOYSA-N,Alkaloids,Other,Other,-1,-1,T84316,T84316,Voltage-gated calcium channel alpha-2/delta-1
+LTS0253038,85435,10.2966,Cc1nc2ccccc2s1,DXYYSGDWQCSKKO-UHFFFAOYSA-N,Alkaloids,Other,Other,-1,-1,T85435,T85435,Insulin receptor
+LTS0169018,8391,11.52354,O=S(=O)(O)Oc1ccccc1,CTYRPMDGLDAWRQ-UHFFFAOYSA-N,Shikimates and Phenylpropanoids,Phenolic acids (C6-C1),Simple phenolic acids,-1,-1,T08391,T08391,Janus kinase 2
+LTS0169018,74312,10.16468,O=S(=O)(O)Oc1ccccc1,CTYRPMDGLDAWRQ-UHFFFAOYSA-N,Shikimates and Phenylpropanoids,Phenolic acids (C6-C1),Simple phenolic acids,-1,-1,T74312,T74312,Fms-like tyrosine kinase 3
+LTS0091806,18950,11.07009,CC(C)CC1SSSSSS1,XNZYBTRLELJXSN-UHFFFAOYSA-N,Fatty acids,Fatty acyls,Hydrocarbons,-1,-1,T18950,T18950,Leutinizing-hormone-releasing hormone
+LTS0091806,22658,10.82365,CC(C)CC1SSSSSS1,XNZYBTRLELJXSN-UHFFFAOYSA-N,Fatty acids,Fatty acyls,Hydrocarbons,-1,-1,T22658,T22658,Interleukin-8
+LTS0091806,30028,10.17009,CC(C)CC1SSSSSS1,XNZYBTRLELJXSN-UHFFFAOYSA-N,Fatty acids,Fatty acyls,Hydrocarbons,-1,-1,T30028,T30028,Vesicle-associated membrane protein
+LTS0091806,46904,10.15108,CC(C)CC1SSSSSS1,XNZYBTRLELJXSN-UHFFFAOYSA-N,Fatty acids,Fatty acyls,Hydrocarbons,-1,-1,T46904,T46904,Secretin receptor
+LTS0091806,56915,10.85258,CC(C)CC1SSSSSS1,XNZYBTRLELJXSN-UHFFFAOYSA-N,Fatty acids,Fatty acyls,Hydrocarbons,-1,-1,T56915,T56915,Human immunodeficiency virus Protease
+LTS0091806,73712,10.14624,CC(C)CC1SSSSSS1,XNZYBTRLELJXSN-UHFFFAOYSA-N,Fatty acids,Fatty acyls,Hydrocarbons,-1,-1,T73712,T73712,Fatty acid-binding protein 1
+LTS0091806,76059,10.51811,CC(C)CC1SSSSSS1,XNZYBTRLELJXSN-UHFFFAOYSA-N,Fatty acids,Fatty acyls,Hydrocarbons,-1,-1,T76059,T76059,FK506-binding protein 1A
+LTS0091806,76630,12.16899,CC(C)CC1SSSSSS1,XNZYBTRLELJXSN-UHFFFAOYSA-N,Fatty acids,Fatty acyls,Hydrocarbons,-1,-1,T76630,T76630,Cambridge pathology 1 antigen
+LTS0091806,77195,10.22921,CC(C)CC1SSSSSS1,XNZYBTRLELJXSN-UHFFFAOYSA-N,Fatty acids,Fatty acyls,Hydrocarbons,-1,-1,T77195,T77195,NADH dehydrogenase
+LTS0091806,78585,10.03337,CC(C)CC1SSSSSS1,XNZYBTRLELJXSN-UHFFFAOYSA-N,Fatty acids,Fatty acyls,Hydrocarbons,-1,-1,T78585,T78585,Interleukin-5
+LTS0091806,82841,10.40268,CC(C)CC1SSSSSS1,XNZYBTRLELJXSN-UHFFFAOYSA-N,Fatty acids,Fatty acyls,Hydrocarbons,-1,-1,T82841,T82841,Insulin
+LTS0091806,86115,10.47009,CC(C)CC1SSSSSS1,XNZYBTRLELJXSN-UHFFFAOYSA-N,Fatty acids,Fatty acyls,Hydrocarbons,-1,-1,T86115,T86115,ApoC-III messenger RNA
+LTS0091806,93783,11.21319,CC(C)CC1SSSSSS1,XNZYBTRLELJXSN-UHFFFAOYSA-N,Fatty acids,Fatty acyls,Hydrocarbons,-1,-1,T93783,T93783,Human immunodeficiency virus Tat protein
+LTS0091806,95400,11.18565,CC(C)CC1SSSSSS1,XNZYBTRLELJXSN-UHFFFAOYSA-N,Fatty acids,Fatty acyls,Hydrocarbons,-1,-1,T95400,T95400,Immunoglobulin epsilon Fc receptor gamma
+LTS0091806,95479,10.40971,CC(C)CC1SSSSSS1,XNZYBTRLELJXSN-UHFFFAOYSA-N,Fatty acids,Fatty acyls,Hydrocarbons,-1,-1,T95479,T95479,Somatostatin
+LTS0091806,95678,10.84841,CC(C)CC1SSSSSS1,XNZYBTRLELJXSN-UHFFFAOYSA-N,Fatty acids,Fatty acyls,Hydrocarbons,-1,-1,T95678,T95678,Influenza M2 protein
+LTS0091806,98708,10.38064,CC(C)CC1SSSSSS1,XNZYBTRLELJXSN-UHFFFAOYSA-N,Fatty acids,Fatty acyls,Hydrocarbons,-1,-1,T98708,T98708,Parathyroid hormone
+LTS0041837,8391,11.56861,O=S(=O)(O)CC(O)CO,YPFUJZAAZJXMIP-UHFFFAOYSA-N,Other,Other,Other,200,-1,T08391,T08391,Janus kinase 2
+LTS0041837,56518,10.33712,O=S(=O)(O)CC(O)CO,YPFUJZAAZJXMIP-UHFFFAOYSA-N,Other,Other,Other,200,-1,T56518,T56518,Hepatitis B virus Reverse transcriptase
+LTS0181201,69128,10.22853,CSc1nc2ccccc2s1,UTBVIMLZIRIFFR-UHFFFAOYSA-N,Alkaloids,Other,Other,-1,-1,T69128,T69128,Proto-oncogene c-Ros
+LTS0041837,74312,10.54874,O=S(=O)(O)CC(O)CO,YPFUJZAAZJXMIP-UHFFFAOYSA-N,Other,Other,Other,200,-1,T74312,T74312,Fms-like tyrosine kinase 3
+LTS0041837,85943,10.16836,O=S(=O)(O)CC(O)CO,YPFUJZAAZJXMIP-UHFFFAOYSA-N,Other,Other,Other,200,-1,T85943,T85943,Proto-oncogene c-Src
+LTS0095310,8391,11.59582,O=P(O)(O)OP(=O)(O)O,XPPKVPWEQAFLFU-UHFFFAOYSA-N,Carbohydrates,Other,Other,-1,-1,T08391,T08391,Janus kinase 2
+LTS0228277,8391,10.31064,O=P(O)(O)OP(=O)(O)OP(=O)(O)OC[C@H]1O[C@@H](n2cnc3c(O)ncnc32)[C@H](O)[C@@H]1O,HAEJPQIATWHALX-KQYNXXCUSA-N,Carbohydrates,Nucleosides,Purine nucleotides,-1,-1,T08391,T08391,Janus kinase 2
+LTS0069821,12499,10.38357,ClP(Cl)C1CCCCC1,MJEQIIGWDHUZJW-UHFFFAOYSA-N,Fatty acids,Other,Other,-1,-1,T12499,T12499,LCK tyrosine protein kinase
+LTS0073375,8391,11.37643,O=S(=O)(c1ccccc1)c1ccccc1,KZTYYGOKRVBIMI-UHFFFAOYSA-N,Shikimates and Phenylpropanoids,Other,Other,-1,-1,T08391,T08391,Janus kinase 2
+LTS0073375,12499,10.34241,O=S(=O)(c1ccccc1)c1ccccc1,KZTYYGOKRVBIMI-UHFFFAOYSA-N,Shikimates and Phenylpropanoids,Other,Other,-1,-1,T12499,T12499,LCK tyrosine protein kinase
+LTS0073375,56518,11.08768,O=S(=O)(c1ccccc1)c1ccccc1,KZTYYGOKRVBIMI-UHFFFAOYSA-N,Shikimates and Phenylpropanoids,Other,Other,-1,-1,T56518,T56518,Hepatitis B virus Reverse transcriptase
+LTS0073375,57700,10.0577,O=S(=O)(c1ccccc1)c1ccccc1,KZTYYGOKRVBIMI-UHFFFAOYSA-N,Shikimates and Phenylpropanoids,Other,Other,-1,-1,T57700,T57700,Tyrosine-protein kinase Kit
+LTS0073375,63966,10.06449,O=S(=O)(c1ccccc1)c1ccccc1,KZTYYGOKRVBIMI-UHFFFAOYSA-N,Shikimates and Phenylpropanoids,Other,Other,-1,-1,T63966,T63966,Vascular endothelial growth factor receptor 1
+LTS0073375,72458,10.45331,O=S(=O)(c1ccccc1)c1ccccc1,KZTYYGOKRVBIMI-UHFFFAOYSA-N,Shikimates and Phenylpropanoids,Other,Other,-1,-1,T72458,T72458,Melanocortin receptor 4
+LTS0073375,74312,11.48851,O=S(=O)(c1ccccc1)c1ccccc1,KZTYYGOKRVBIMI-UHFFFAOYSA-N,Shikimates and Phenylpropanoids,Other,Other,-1,-1,T74312,T74312,Fms-like tyrosine kinase 3
+LTS0073375,80782,10.06449,O=S(=O)(c1ccccc1)c1ccccc1,KZTYYGOKRVBIMI-UHFFFAOYSA-N,Shikimates and Phenylpropanoids,Other,Other,-1,-1,T80782,T80782,VEGFR1 messenger RNA
+LTS0073375,85943,10.27178,O=S(=O)(c1ccccc1)c1ccccc1,KZTYYGOKRVBIMI-UHFFFAOYSA-N,Shikimates and Phenylpropanoids,Other,Other,-1,-1,T85943,T85943,Proto-oncogene c-Src
+LTS0101168,8391,10.1975,O=P(O)(O)O[C@H]1O[C@H](CO)[C@@H](O)[C@H]1O,YXJDFQJKERBOBM-TXICZTDVSA-N,Carbohydrates,Saccharides,Monosaccharides,-1,-1,T08391,T08391,Janus kinase 2
+LTS0127530,8391,10.79948,O=P(O)(O)CCO,SEHJHHHUIGULEI-UHFFFAOYSA-N,Other,Other,Other,200,-1,T08391,T08391,Janus kinase 2
+LTS0111244,8391,10.86063,N=c1nc(O)c2ncn([C@@H]3O[C@H](CO)[C@@H](O)[C@H]3O)c2[nH]1.O=P(O)(O)OP(=O)(O)OP(=O)(O)OP(=O)(O)O,WYKLZQDUKWXSES-GWTDSMLYSA-N,Carbohydrates,Nucleosides,Purine nucleotides,-1,-1,T08391,T08391,Janus kinase 2

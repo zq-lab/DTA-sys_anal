@@ -1,0 +1,55 @@
+pathway_superclass,count_x,count_y,percentage
+"Alkaloids, Guanidine alkaloids",6,33,18.18
+"Polyketides, Linear polyketides",31,304,10.2
+"Amino acids and Peptides, Oligopeptides",45,1168,3.85
+"Alkaloids, Tryptophan alkaloids",254,7744,3.28
+"Alkaloids, Ornithine alkaloids",42,1368,3.07
+"Fatty acids, Eicosanoids",10,327,3.06
+"Polyketides, Polyethers",7,322,2.17
+"Amino acids and Peptides, Other",11,528,2.08
+"Alkaloids, Pseudoalkaloids",5,248,2.02
+"Carbohydrates, Other",5,307,1.63
+"Fatty acids, Other",1,80,1.25
+"Alkaloids, Histidine alkaloids",7,583,1.2
+"Polyketides, Macrolides",31,2754,1.13
+"Amino acids and Peptides, Small peptides",33,2985,1.11
+"Shikimates and Phenylpropanoids, Styrylpyrones",2,185,1.08
+"Terpenoids, Steroids",43,4642,0.93
+"Fatty acids, Glycerophospholipids",1,130,0.77
+"Alkaloids, Tyrosine alkaloids",36,4804,0.75
+"Alkaloids, Lysine alkaloids",6,795,0.75
+"Alkaloids, Other",42,5675,0.74
+"Terpenoids, Triterpenoids",16,2339,0.68
+"Terpenoids, Diterpenoids",11,1625,0.68
+"Polyketides, Other",7,1025,0.68
+"Terpenoids, Meroterpenoids",6,965,0.62
+"Alkaloids, Serine alkaloids",1,163,0.61
+"Carbohydrates, Nucleosides",9,1525,0.59
+"Fatty acids, Fatty Acids and Conjugates",11,2018,0.55
+"Other, Other",8,1473,0.54
+"Alkaloids, Nicotinic acid alkaloids",7,1317,0.53
+"Shikimates and Phenylpropanoids, Other",16,3016,0.53
+"Shikimates and Phenylpropanoids, Stilbenoids",5,957,0.52
+"Carbohydrates, Polyols",5,1001,0.5
+"Terpenoids, Sesquiterpenoids",8,1656,0.48
+"Shikimates and Phenylpropanoids, Isoflavonoids",9,2224,0.4
+"Shikimates and Phenylpropanoids, Phenylpropanoids (C6-C3)",6,1656,0.36
+"Shikimates and Phenylpropanoids, Flavonoids",31,8891,0.35
+"Alkaloids, Pseudoalkaloids (transamidation)",5,1417,0.35
+"Fatty acids, Fatty acyls",3,957,0.31
+"Terpenoids, Other",1,327,0.31
+"Terpenoids, Monoterpenoids",3,1102,0.27
+"Shikimates and Phenylpropanoids, Phenolic acids (C6-C1)",8,2998,0.27
+"Alkaloids, Small peptides",1,420,0.24
+"Polyketides, Aromatic polyketides",3,1256,0.24
+"Shikimates and Phenylpropanoids, Coumarins",7,3106,0.23
+"Shikimates and Phenylpropanoids, Lignans",4,1822,0.22
+"Fatty acids, Fatty esters",1,450,0.22
+"Polyketides, Cyclic polyketides",2,955,0.21
+"Alkaloids, Anthranilic acid alkaloids",3,1436,0.21
+"Shikimates and Phenylpropanoids, Xanthones",1,523,0.19
+"Amino acids and Peptides, β-lactams",3,1598,0.19
+"Shikimates and Phenylpropanoids, Diarylheptanoids",1,591,0.17
+"Carbohydrates, Saccharides",1,638,0.16
+"Polyketides, Polycyclic aromatic polyketides",3,2083,0.14
+"Polyketides, Chromanes",1,746,0.13

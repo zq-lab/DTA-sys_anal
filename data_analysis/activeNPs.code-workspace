@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.fontSize": 24,
+		"python.defaultInterpreterPath": "D:\\portSYS\\common\\WPy64\\python-3.11.1.amd64\\",
+		"python.envFile": "D:\\portSYS\\common\\WPy64\\python-3.11.1.amd64\\"
+	}
+}
