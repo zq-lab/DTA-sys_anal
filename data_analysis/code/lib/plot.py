@@ -7,7 +7,7 @@ import seaborn as sns
 
 
 
-# plot heatmap
+# plot heatmap based on matched x and y
 def heatmap_value_counts(df, x, y, count_thd=100, fillna=0, blank_str_replace='Other', cmap='Blues', figsize=(10,7)):
     sns.set_theme(context='notebook', style='ticks', palette='deep', font='sans-serif', font_scale=1.0)
     data = df.value_counts(subset=[x,y]).reset_index()
@@ -22,7 +22,7 @@ def heatmap_value_counts(df, x, y, count_thd=100, fillna=0, blank_str_replace='O
     f, ax = plt.subplots(figsize=figsize)
     return sns.heatmap(data, annot=True, fmt="d", linewidths=.5, ax=ax, cmap=cmap, alpha=0.9)
 
-# plot joy
+# joy plot optimized
 def joy(data, x, y, x_range=None, blank_str_replace='Other'):
     sns.set_theme(context='notebook', style='ticks', palette='deep', font='sans-serif', font_scale=1.2)
     fig, axes = joypy.joyplot(data, column=x, by=y,
@@ -34,7 +34,7 @@ def joy(data, x, y, x_range=None, blank_str_replace='Other'):
                                 alpha = 0.5)
     return fig
 
-# plot bar
+# bar with values
 def bar(data, x, y, xlim=None, isLable=True):
     sns.set_theme(context='notebook', style='ticks', palette='deep', font='sans-serif', font_scale=1.2)
     fig = sns.barplot(data=data, x=x, y=y, alpha=0.8)
@@ -45,7 +45,7 @@ def bar(data, x, y, xlim=None, isLable=True):
             fig.bar_label(i,)
     return fig
 
-# 更换新型热力图：
+# relplot based on counts of matched x and y
 def rel_count(df, x, y, count_thd = 1, title=None, height=5,figsize=None):
     sns.set_theme(style="whitegrid")
     data = df.value_counts(subset=[x,y]).reset_index()

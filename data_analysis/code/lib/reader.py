@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 
-# read fusionDTA data
+# read fusionDTA predication result (bin)
 def read_fusionDTA(path):
     dt = np.dtype(
         [
