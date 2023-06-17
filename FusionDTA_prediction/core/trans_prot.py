@@ -8,29 +8,33 @@ model, alphabet = esm.pretrained.esm1b_t33_650M_UR50S()
 
 class ProteinDataLoader:
     '''
-    请用户根据自己的数据输入格式，继承该类并重写read_data_file方法以
-    自定义数据读取过程。该方法要求返回两个列表。第一个列表为为蛋白质id，
-    该id可根据用户的后续数据分析流程自行定义数据类型与编号规则；第二个
-    列表为包含蛋白质序列字符串的列表。
-    项目中使用的ProteinCsvLoader类便是通过继承该类定义的：
+    Users are invited to inherit this class and override the read_data_file method 
+    according to their data input format to customize the data reading process. 
+    
+    This method requires two lists to be returned. The first list is a protein id. 
+    The id can be defined according to the user's subsequent data analysis process;
+    the second The second list is a list of protein sequence strings.
+    
+    The ProteinCsvLoader class used in the project is defined by inheriting from
+    this class:
     ```
     import pandas as pd
-    class ProteinCsvLoader(ProteinDataLoader):
-        def read_data_file(self, path:str):
+    class ProteinCsvLoader(ProteinDataLoader).
+        def read_data_file(self, path:str).
             protein_df = pd.read_csv(path)
             return protein_df['id'], protein_df['seq']
     ```
-    该类的对象可传入generate_protein_representation函数作为loader参
-    数的值：
+    The object of this class can be passed into the generate_protein_representation
+    function as the loader parameter values of:
     ```
-    # path为要读取的csv文件路径
+    # path is the path to the csv file to read
     loader = ProteinCsvLoader(path)
     generate_protein_representation(loader, 'task.pickle')
     ```
-    亦可作为迭代器使用：
+    Can also be used as an iterator:
     ```
-    # path为要读取的csv文件路径
-    for pid, token in ProteinCsvLoader(path):
+    # path is the path to the csv file to read
+    for pid, token in ProteinCsvLoader(path).
         print(pid, token)
         break
     ```
@@ -58,9 +62,9 @@ class ProteinCsvLoader(ProteinDataLoader):
     
 def generate_protein_representation(data: ProteinDataLoader, save_path: str):
     '''
-    该函数用于调用esm-1b生成蛋白质表示。
-    data: ProteinDataLoader的子类，指定读取的文件与读取方式。
-    save_path: 结果的保存路径，结果将被保存为pickle文件。
+    This function is used to call esm-1b to generate the protein representation.
+    data: subclass of ProteinDataLoader, specifies the file to be read and the reading method.
+    save_path: path to save the results, the results will be saved as a pickle file.
     '''
     
     data_dict = {}

@@ -115,22 +115,30 @@ dt = np.dtype(
 
 class BatchGenerator:
     '''
-    请用户根据自己的数据输入格式，继承该类并重写read_np与read_prot方
-    法以自定义数据读取过程。
-    其中read_np方法要求返回两个列表，第一个列表为化合物的id，该id可根
-    据用户的后续数据分析流程自行定义数据类型与编号规则；第二个列表为包
-    含无构型信息的SMILES字符串的列表。
-    read_prot方法要求返回一个包含蛋白质id的列表，该id可根据用户的后续
-    数据分析流程自行定义数据类型与编号规则。
+    Users are invited to inherit this class and override the read_np
+    and read_prot methods to customize the data reading process
+    according to their own data input format. 
     
-    保存的批次大小由np_batch_size与prot_batch_size参数指定。每次生成
-    的批次大小为np_batch_size * prot_batch_size。
+    The read_np method requires the return of two lists, the first 
+    list is the id of the compound, which can be defined according to
+    the user's subsequent data analysis process, and the second list
+    is a list of SMILES strings without configuration information. 
     
-    注意本类仅生成保存的批次，不指定模型预测时的批次大小。预测时模型使
-    用的批次大小(即batch_size)由batch_predict函数的predict_batch_s
-    ize参数指定。
+    The data type and numbering rules can be defined by the user
+    according to the subsequent data analysis process. The size of
+    the saved batch is specified by the np_batch_size and
+    prot_batch_size parameters. The batch size is np_batch_size *
+    prot_batch_size.
     
-    项目中使用的BatchGeneratorFromCsv类便是通过继承该类定义的：
+    Note that this class only generates the saved batches and does
+    not specify the batch size for model prediction. The batch size
+    used by the model at prediction time (i.e., batch_size) is
+    specified by the predict_batch_size parameter of the batch_predict
+    function. 
+    
+    The BatchGeneratorFromCsv class used in the project is defined
+    by inheriting from this class:
+
     ```
     class BatchGeneratorFromCsv(BatchGenerator):
         def read_np(self, path):
@@ -143,23 +151,29 @@ class BatchGenerator:
             df_protein = pd.read_csv(path)
             return df_protein['id'].to_list()
     ```
-    该类的对象可传入batch_generator函数作为loader参数的值：
+    Objects of this class can be passed into the batch_generator 
+    function as the value of the loader parameter:
     ```
-    # np_path为本项目中存放药物id与smiles的文件的路径
-    # prot_path为本项目中存放蛋白质id的文件的路径
-    # pkl_path为本项目中存放蛋白质表示pickle的文件的路径
-    # result_path为本项目中保存结果的路径
-    # log_path为本项目中保存日志的路径
+    # np_path is the path to the file where the drug ids and smiles
+    # are stored in this project.
+    # prot_path is the path to the file that holds the protein id 
+    # in this project.
+    # pkl_path is the path to the file where the protein pickle is 
+    # stored in this project.
+    # result_path is the path where the results are stored in this
+    # project.
+    # log_path is the path where the logs are stored in this project
+    
     batgen = BatchGeneratorFromCsv(np_path, prot_path, 10, 311)
     batch_predict(batgen, pkl_path, result_path, log_path)
     ```
     '''
     def __init__(self, np_path:str, prot_path:str, np_batch_size:int, prot_batch_size=None):
         '''
-        np_path: 存放药物id与smiles的文件的路径
-        prot_path: 存放蛋白质id的文件的路径
-        np_batch_size: 药物的批次大小
-        prot_batch_size: 蛋白质的批次大小
+        np_path: path to the file where drug ids and smiles are stored.
+        prot_path: path to the file where the protein id is stored.
+        np_batch_size: the batch size of the drug.
+        prot_batch_size: the batch size of the protein.
         '''
         self.np_id_list, self.np_smiles_list = self.read_np(np_path)
         assert len(self.np_id_list) == len(self.np_smiles_list), 'length of np_id and np_smiles must be the same.'
@@ -234,17 +248,26 @@ class BatchGeneratorFromCsv(BatchGenerator):
     
 def batch_predict(batch_generator, prot_repr_path, result_file_path, predict_batch_size=270, log_path=None):
     '''
-    用于批量预测DTA并即时保存。
+    Used to batch predict DTA and save it on-the-fly.
     
-    batch_generator: BatchGenerator子类的对象, 使用help(BatchGener
-        ator)获取更多信息。
-    prot_repr_path: 使用generate_protein_representation函数生成的存
-        放蛋白质表示的pickle文件的路径。
-    result_file_path: 结果保存的路径。结果将被保存为一个二进制文件，在
-        每个batch计算结束后会追加写入该文件。
-    predict_batch_size: 预测时的批次大小。请根据显存调整。
-    log_path: None或日志文件的保存路径。如果为None则不生成日志文件，否
-        则生成日志文件。
+    batch_generator: object of BatchGenerator subclass, use
+    help(BatchGenerator ator) for more information.
+    
+    prot_repr_path: A pickle file generated using the
+    generate_protein_representation function to store path of the pickle
+    file generated using the generate_protein_representation function.
+    
+    result_file_path: The path where the results will be saved. The results
+    will be saved as a binary file that will be appended after The results
+    will be saved as a binary file, which will be appended after each batch
+    calculation.
+    
+    predict_batch_size: the size of the batch when predicting. Please adjust
+    according to the memory.
+    
+    log_path: None or the path to save the log file. If None, no log file will
+    be generated, if not If None, no log file will be generated, if not, log
+    file will be generated.
     '''
     predict = get_predict_fn(prot_repr_path)
     
