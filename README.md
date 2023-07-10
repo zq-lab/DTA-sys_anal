@@ -9,8 +9,13 @@ The core code is stored in the following six files:
 5. FusionDTA_prediction/5-predicate_by_FusionDTA.ipynb
 6. data_analysis/code/6-vusiual_prediction_result.ipynb
 
+## Citation
+If you use these data in your research, please cite the following work:
+Wang, D.; Li, X.; Miao, Y.; Zhang, Q. Profiling Chemobiological Connection between Natural Product and Target Space Based on Systematic Analysis. *Int. J. Mol. Sci.* **2023**, *24*, 11265. https://doi.org/10.3390/ijms241411265.
+The full text can be found freely at: https://www.mdpi.com/1422-0067/24/14/11265
+
 ## Data Analysis
-You can get the list of Natural product we make [here](https://zenodo.org/record/8047527)(iNP.db).
+You can get the list of Natural products we make [here](https://zenodo.org/record/8047527)(iNP.db).
 
 ### 1-data_preparing_lotus_NP.ipynb: 
 
